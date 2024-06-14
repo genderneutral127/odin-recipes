@@ -1,0 +1,2 @@
+Odin-recipes is a simple website demonstrating the completing of the HTML foundation course 
+within the Odin Project.  Skills demonstrated will include: creation of a github repository, basic website set up, and HTML foudnations.  HTML foundations contains elements and tags, HTML boilerplate, lists, links and images, and commit messages. 
